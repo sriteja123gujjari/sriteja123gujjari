@@ -2,7 +2,7 @@
 - 👀 I’m interested in cricket
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me  and Instagram:
+- 📫 How to reach me Instagram :)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
