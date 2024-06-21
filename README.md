@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sritejagujjari
-- 👀 I’m interested in cricket
+- 👀 I’m interested in cricket and python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Instagram :)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: hey
+- ⚡ Fun fact: there is a fly on Python it is called Flython.
 
 <!---
 sriteja123gujjari/sriteja123gujjari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
