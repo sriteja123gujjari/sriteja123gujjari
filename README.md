@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @sritejagujjari
-- 👀 I’m interested in cricket and python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me Instagram :)
-- 😄 Pronouns: hey
+- 👀 I’m interested in java and python
+- 🌱 I’m currently learning Python and DSA
+- 💞️ I’m looking to collaborate on various projects
+- 😄 Pronouns: HE
 - ⚡ Fun fact: there is a fly on Python it is called Flython.
 
 <!---
