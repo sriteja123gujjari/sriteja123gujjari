@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sritejagujjari
 - 👀 I’m interested in java and python
-- 🌱 I’m currently learning Python and DSA
+- 🌱 I’m currently learning React,Node and DSA
 - 💞️ I’m looking to collaborate on various projects
 - 😄 Pronouns: HE
 - ⚡ Fun fact: there is a fly on Python it is called Flython.
