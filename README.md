@@ -18,8 +18,6 @@
 
 ```yaml
 name: Sri Teja Gujjari
-batch: BT-23  |  Roll: 23951A04L6
-college: IARE, Dundigal, Hyderabad
 
 currently:
   - Building full-stack apps with React + TypeScript + Supabase
@@ -122,7 +120,7 @@ Designed and simulated a hybrid comparator combining static CMOS with dynamic lo
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriteja-gujjari-896619293/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23951a04l6@iare.ac.in)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejagujjari2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sriteja123gujjari)
 
 </div>
