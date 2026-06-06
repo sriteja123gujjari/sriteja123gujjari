@@ -8,7 +8,7 @@
 
 </div>
 
-> *ECE student who fell in love with building real things. Every project here started as a problem I actually faced.*
+> *Who fell in love with building real things. Every project here started as a problem I actually faced.*
 
 ---
 
@@ -18,8 +18,6 @@
 name: Sri Teja Gujjari
 batch: BT-23  |  Roll: 23951A04L6
 college: IARE, Dundigal, Hyderabad
-focus: Software Engineering + GenAI
-target: Placement Drive — Sep/Nov 2026
 
 currently:
   - Building full-stack apps with React + TypeScript + Supabase
@@ -29,7 +27,6 @@ currently:
 outside_code:
   - Cricket 🏏
   - FIFA Mobile ⚽
-  - Cooking for the family 🍳
 ```
 
 ---
@@ -85,13 +82,13 @@ Designed and simulated a hybrid comparator combining static CMOS with dynamic lo
 `React 19` `React Native` `Tailwind CSS` `HTML/CSS`
 
 **Backend & DB**
-`Supabase` `PostgreSQL` `Firebase` `FastAPI` `SQLAlchemy`
+`Supabase` `PostgreSQL` `Firebase` `FastAPI` 
 
 **Tools & Platforms**
 `Git` `Vite` `Capacitor` `Arduino` `Cadence Virtuoso`
 
 **Currently Learning**
-`DSA (TUF+ + LeetCode)` `SQL` `System Design` `GenAI APIs`
+`DSA` `SQL` `System Design`
 
 ---
 
@@ -111,7 +108,6 @@ Designed and simulated a hybrid comparator combining static CMOS with dynamic lo
 
 ## 🎯 2026 Goals
 
-- [ ] Land a Software Engineering role (GenAI / Backend track)
 - [ ] Complete 300+ LeetCode problems
 - [ ] Ship NagarSetu to Play Store
 - [ ] Contribute to an open source project
